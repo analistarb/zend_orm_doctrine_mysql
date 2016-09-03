@@ -4,5 +4,5 @@ Aplicativo PHP ZendFramework 2.4.9
 
 
 ORM Doctrine <br><br>
-MySQL (CRUD básico)
+MySQL
 </h3>
